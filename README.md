@@ -77,7 +77,7 @@ We look forward to seeing your contributions!
 
 ## License
 
-MIT © [Ben Lugavere]()
+MIT © [Ben Lugavere](http://benlugavere.com)
 
 
 [npm-image]: https://badge.fury.io/js/boxed-injector.svg

@@ -6,7 +6,7 @@
   "author": {
     "name": "Ben Lugavere",
     "email": "b.lugavere@gmail.com",
-    "url": ""
+    "url": "http://benlugavere.com"
   },
   "files": [
     "dist"
@@ -19,9 +19,6 @@
     "dependency injection",
     "react"
   ],
-  "peerDependencies": {
-    "boxed-injector": "^0.5.0"
-  },
   "devDependencies": {
     "react-dom": "^15.3.2",
     "babel-core": "^6.11.4",
