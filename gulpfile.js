@@ -1,4 +1,3 @@
-'use strict';
 
 const path = require('path');
 const gulp = require('gulp');
@@ -49,14 +48,7 @@ gulp.task('test', ['pre-test'], function () {
     .pipe(mocha({
       reporter: 'nyan'
     }))
-    // .on('error', function (err) {
-    //   mochaErr = err;
-    // })
     .pipe(istanbul.writeReports());
-  /*    .on('end', function () {
-        cb(mochaErr);
-      });
-      */
 });
 
 gulp.task('watch', ['test'], function () {
