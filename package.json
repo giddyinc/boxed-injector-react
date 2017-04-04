@@ -60,12 +60,11 @@
     "react-addons-test-utils": "^15.3.2",
     "sinon": "^1.17.6"
   },
-  "repository": "giddyinc/boxed-injector",
+  "repository": "giddyinc/boxed-injector-react",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp",
-    "test:watch": "gulp watch",
-    "test:injector": "mocha --require babel-register ./lib/injector/Injector.test.js"
+    "test:watch": "gulp watch"
   },
   "dependencies": {
     "react": "^15.3.2"
