@@ -87,14 +87,14 @@ We look forward to seeing your contributions!
 MIT © [Ben Lugavere](http://benlugavere.com)
 
 
-[npm-image]: https://badge.fury.io/js/boxed-injector.svg
-[npm-url]: https://npmjs.org/package/boxed-injector
-[travis-image]: https://travis-ci.org/giddyinc/boxed-injector.svg?branch=master
-[travis-url]: https://travis-ci.org/giddyinc/boxed-injector
-[daviddm-image]: https://david-dm.org/giddyinc/boxed-injector.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/giddyinc/boxed-injector
-[coveralls-image]: https://coveralls.io/repos/giddyinc/boxed-injector/badge.svg
-[coveralls-url]: https://coveralls.io/r/giddyinc/boxed-injector
+[npm-image]: https://badge.fury.io/js/boxed-injector-react.svg
+[npm-url]: https://npmjs.org/package/boxed-injector-react
+[travis-image]: https://travis-ci.org/giddyinc/boxed-injector-react.svg?branch=master
+[travis-url]: https://travis-ci.org/giddyinc/boxed-injector-react
+[daviddm-image]: https://david-dm.org/giddyinc/boxed-injector-react.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/giddyinc/boxed-injector-react
+[coveralls-image]: https://coveralls.io/repos/giddyinc/boxed-injector-react/badge.svg
+[coveralls-url]: https://coveralls.io/r/giddyinc/boxed-injector-react
 
 [downloads-url]: https://www.npmjs.com/package/boxed-injector-react
 [downloads-image]: https://img.shields.io/npm/dm/boxed-injector-react.svg?style=flat
