@@ -1,4 +1,3 @@
-
 'use strict';
 
 const expect = require('expect');
@@ -9,7 +8,7 @@ const React = require('react');
  * mocha test
  */
 
-describe('boxed-injector', function () {
+describe('boxed-injector', () => {
   describe('export', () => {
     let mod;
 

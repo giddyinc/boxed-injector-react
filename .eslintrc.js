@@ -17,6 +17,12 @@ module.exports = {
   "rules": {
     "guard-for-in": [0],
     "react/jsx-uses-vars": "error",
-    "no-multiple-empty-lines": 1
-  }
+    "no-multiple-empty-lines": 1,
+    'prefer-arrow-callback': 1,
+    'no-extra-parens': 1,
+    'arrow-parens': [1, "as-needed"],
+    'arrow-body-style': ["error", "as-needed"],
+    'no-var': 2,
+    'prefer-const': 2
+    }
 }
