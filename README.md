@@ -1,4 +1,11 @@
-# boxed-injector-react [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/giddyinc/boxed-injector-react.svg?branch=master)](https://travis-ci.org/giddyinc/boxed-injector-react) [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage Status](https://coveralls.io/repos/github/giddyinc/boxed-injector-react/badge.svg?branch=master)](https://coveralls.io/github/giddyinc/boxed-injector-react?branch=master)
+# boxed-injector-react
+
+[![NPM version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+[![dependencies Status][daviddm-image]][daviddm-url]
+[![Build Status][travis-image]][travis-url]
+[![Coverage Status][coveralls-image]][coveralls-url]
+
 > Dependency Injection Tools for React Applications
 
 ## Installation
@@ -88,3 +95,6 @@ MIT © [Ben Lugavere](http://benlugavere.com)
 [daviddm-url]: https://david-dm.org/giddyinc/boxed-injector
 [coveralls-image]: https://coveralls.io/repos/giddyinc/boxed-injector/badge.svg
 [coveralls-url]: https://coveralls.io/r/giddyinc/boxed-injector
+
+[downloads-url]: https://www.npmjs.com/package/boxed-injector-react
+[downloads-image]: https://img.shields.io/npm/dm/boxed-injector-react.svg?style=flat
